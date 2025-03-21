@@ -1,4 +1,36 @@
-.hero{
-    background-color: rgba(45,83,86,255);
-    color: white;
+.hero {
+  background-color: rgba(45, 83, 86, 255);
+  color: white;
 }
+
+.hero-img-bedroom {
+  background-image: url("./Assests/bedroom.jpg");
+  height: 50vh;
+  padding: 0;
+  width: 300px;
+  border-radius: 12px;
+
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.hero-img-living {
+    background-image: url("./Assests/Decor.jpg");
+  height: 50vh;
+  padding: 0;
+  width: 300px;
+  border-radius: 12px;
+
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  
+}
+
+
+  
+
+ 
+  
+
