@@ -1,36 +1,125 @@
-.hero {
+.hero-container {
   background-color: rgba(45, 83, 86, 255);
   color: white;
+}
+.hero-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 7.2rem;
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.hero-first-col {
+  padding-left: 12rem;
+  padding-right: 0;
+  margin-top: 5rem;
+}
+
+.hero-des-head {
+  border: 1px solid white;
+  border-radius: 15px;
+  padding: 0.3rem 0.7rem 0.3rem 0.7rem;
+  background-color: #4a6d71;
+  font-weight: 400;
+
+  font-size: medium;
+  margin-bottom: 10px;
+}
+.Hero-paragrah {
+  font-size: larger;
+  font-weight: 400;
+  margin-bottom: 2rem;
+}
+
+.btn-shop {
+  background-color: rgba(208, 148, 35, 255);
+  border: none;
+  border-radius: 20px;
+  color: white;
+  width: 140px;
+  height: 40px;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.btn-shop:hover {
+  background-color: #4a6d71;
+  border: 2px solid rgba(208, 148, 35, 255);
+  color: rgba(208, 148, 35, 255);
+}
+
+.follow a {
+  border-bottom: 2px solid white;
+  text-decoration: none;
+  color: white;
+  margin-left: 20px;
+}
+
+.btn-shop i {
+  padding-left: 5px;
+}
+
+.hero-heading {
+  font-size: 4.2rem;
+  font-weight: 700;
+  margin-bottom: 2rem;
+  line-height: 4.9rem;
+
+  margin-top: 1rem;
 }
 
 .hero-img-bedroom {
   background-image: url("./Assests/bedroom.jpg");
-  height: 50vh;
+  height: 70vh;
   padding: 0;
-  width: 300px;
-  border-radius: 12px;
+  width: 400px;
+  border-radius: 20px;
 
   background-size: 100% 100%;
   background-repeat: no-repeat;
   background-position: center;
+  display: flex;
+  align-items: end;
+}
+
+.hero-img-bedroom:hover {
+  transition: 0.5s ease-in-out;
+  transform: scale(1.1);
 }
 
 .hero-img-living {
-    background-image: url("./Assests/Decor.jpg");
-  height: 50vh;
+  background-image: url("./Assests/Decor.jpg");
+  height: 70vh;
   padding: 0;
-  width: 300px;
-  border-radius: 12px;
+  width: 400px;
+  border-radius: 20px;
+  margin-left: 20px;
 
   background-size: 100% 100%;
   background-repeat: no-repeat;
   background-position: center;
-  
+  display: flex;
+  align-items: end;
+}
+.hero-img-living:hover {
+  transform: scale(1.1);
+  transition: 0.5s ease-in-out;
 }
 
+.btn-Next {
+  background-color: #4a6d71;
+  border: none;
+  border-radius: 20px;
+  color: white;
+  height: 30px;
+  width: 50px;
 
-  
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
 
- 
-  
-
+.btn-Next:hover {
+  background-color: rgba(208, 148, 35, 255);
+}
