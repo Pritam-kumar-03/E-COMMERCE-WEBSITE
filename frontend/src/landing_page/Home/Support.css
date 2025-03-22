@@ -1,0 +1,26 @@
+.support-icon1{
+    border-radius: 50%;
+    background-color: rgb(255 188 63);
+    padding: 10px 10px 10px 10px;
+   
+    box-shadow: -10px 0px 0px #b8b8b866;
+    
+}
+
+.support-icon2{
+    border-radius: 50%;
+    background-color: rgb(255 188 63);
+    padding: 9px 12px 9px 12px;
+    font-size: 1.1rem;
+    box-shadow: -10px 0px 0px #b8b8b866;
+    
+}
+
+.support-icon3{
+    border-radius: 50%;
+    background-color: rgb(255 188 63);
+    padding: 9px 12px 9px 12px;
+    font-size: 1rem;
+    box-shadow: -10px 0px 0px #b8b8b866;
+    
+}

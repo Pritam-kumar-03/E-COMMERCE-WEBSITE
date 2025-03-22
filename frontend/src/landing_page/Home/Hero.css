@@ -82,6 +82,17 @@
   background-position: center;
   display: flex;
   align-items: end;
+  animation: 2s ease-in 0s 1 alternate bedroom;
+}
+@keyframes bedroom {
+  from {
+    
+    transform: translatex(-110vw);
+  }
+  to {
+   
+    transform: translateY(0);
+  } 
 }
 
 .hero-img-bedroom:hover {
@@ -102,6 +113,17 @@
   background-position: center;
   display: flex;
   align-items: end;
+  animation: 2s ease-in 0s 1 alternate living;
+}
+@keyframes living {
+  from {
+    
+    transform: translateY(-110vh);
+  }
+  to {
+   
+    transform: translateY(0);
+  } 
 }
 .hero-img-living:hover {
   transform: scale(1.1);
