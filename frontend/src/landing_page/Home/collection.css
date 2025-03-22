@@ -1,0 +1,115 @@
+.center-table-img{
+    background-image: url(./Assests/centertable.png);
+    height: 40vh;
+    padding: 0;
+    width: 300px;
+    position: absolute;
+    right: 35px;
+    bottom: -19px;
+   
+  
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+/* 
+.center-table{
+   
+} */
+.accentchair{
+    position: absolute  ;
+    bottom: 50px;
+    left: 100px;
+    width: 70%;
+    height: 400px;
+  
+   
+    
+    background-image: url(./Assests/accentchair.png);
+   
+
+  
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+.row-second-col{
+    position: relative;
+    width: 500px;
+    height: 620px;
+    background-color: #e6e6e6;
+    border-radius: 30px;
+    margin-left: 30px;
+}
+
+.ancent-chair-des{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 20px;
+    z-index: 1;
+}
+
+
+
+
+.lighting-lamp{
+    border-radius: 30px;
+    background-color: #e6e6e6;
+    position: relative  ;
+    height: 297px;
+    width: 303px;
+    
+}
+
+.discount20{
+    border-radius: 30px;
+    background-color:  rgba(45,83,86,255);
+    height: 297px;
+    width: 310px;
+    margin-left: 30px;
+}
+
+.lighting-lamp-img{
+    background-image: url(./Assests/lightinglamp.png);
+    height: 20vh;
+    padding: 0;
+    width: 78px;
+    display: flex;
+    justify-content: end;
+    right: 40px;
+    bottom: 89px;
+    position: absolute;
+   
+  
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.lighting-lamp-des{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 20px;
+    z-index: 1;
+}
+
+.first-col-secondrow{
+    margin-top:30px ;
+    margin-left: 6px;
+}
+
+.center-table-row{
+    position: relative;
+    border-radius: 30px;
+    background-color: #e6e6e6;
+    height: 291PX;
+    width: 650PX;
+   
+}
+
+.row-first-col{
+    padding-left: 115px;
+}
