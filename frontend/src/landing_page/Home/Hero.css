@@ -48,6 +48,8 @@
   background-color: #4a6d71;
   border: 2px solid rgba(208, 148, 35, 255);
   color: rgba(208, 148, 35, 255);
+  box-shadow: 1px 1px 10px  rgba(208, 148, 35, 255);
+  transition: 0.5s;
 }
 
 .follow a {
@@ -144,4 +146,6 @@
 
 .btn-Next:hover {
   background-color: rgba(208, 148, 35, 255);
+  box-shadow: 1px 1px 10px  rgba(208, 148, 35, 255);
+  transition: 0.5s;
 }
