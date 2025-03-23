@@ -1,5 +1,60 @@
 .sideTable-img{
-    background-image: url(./Assests/sideTable.png);
+    background-image: url("./Assests/sideTable.png");
+  
+    height: 70vh;
+    padding: 0;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 20px;
+  
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.armChair-img{
+    background-image: url("./Assests/ArmChair.png");
+  
+    height: 70vh;
+    padding: 0;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 20px;
+  
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.dinnerTable-img{
+    background-image: url("./Assests/DinnerTable.png");
+  
+    height: 70vh;
+    padding: 0;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 20px;
+  
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.pillow-img{
+    background-image: url("./Assests/Pillow.png");
+  
+    height: 70vh;
+    padding: 0;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 20px;
+  
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.wallClock-img{
+    background-image: url("./Assests/Wallclock.png");
   
     height: 70vh;
     padding: 0;

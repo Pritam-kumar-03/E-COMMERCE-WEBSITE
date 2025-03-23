@@ -19,28 +19,28 @@ function Featured() {
       </div>
       <div className="row second-row-feature">
         <div className="col">
-          1<div className="sideTable-img"></div>
+          <div className="sideTable-img"></div>
           <div className="sideTable-des">
             <h6 className="sideTable-heading">Side Table</h6>
             <p className="sideTable-det">Discover 120Products</p>
           </div>
         </div>
         <div className="col">
-          1<div className="armChair-img"></div>
+          <div className="armChair-img"></div>
           <div className="armChair-des">
             <h6 className="armChair-heading">Arm Chair</h6>
             <p className="armChair-det">Discover 145Products</p>
           </div>
         </div>
         <div className="col">
-          1<div className="dinnerTable-imgs"></div>
+          1<div className="dinnerTable-img"></div>
           <div className="dinnerTable-des">
             <h6 className="dinnerTable-heading">Dinner Table</h6>
             <p className="dinnerTable-det">Discover 120Products</p>
           </div>
         </div>
         <div className="col">
-          1<div className="pilow-img"></div>
+          1<div className="pillow-img"></div>
           <div className="pillow-des">
             <h6 className="pillow-heading">Pillow</h6>
             <p className="pillow-det">Discover 150Products</p>
