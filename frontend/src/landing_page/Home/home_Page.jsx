@@ -3,7 +3,7 @@ import Hero from "./Hero";
 import Support from "./Support";
 import Collection from "./Collection";
 import Featured from "./Featured";
-import Trending from "./Trending";
+import Trending from "./Trending/Trending";
 import Flash_sale from "./Flash_sale";
 import Cashback from "./Cashback";
 import Client from "./Client";

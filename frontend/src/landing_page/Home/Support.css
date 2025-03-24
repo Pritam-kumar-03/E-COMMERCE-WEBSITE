@@ -38,19 +38,11 @@
     padding: 9px 12px 9px 12px;
     font-size: 1rem;
     box-shadow: -10px 0px 0px #b8b8b866;
-    animation-name: fade-in;
-    animation-duration: 1s;
-    animation-timeline:scroll(y) ;
-    animation-timing-function: ease-in-out;
+   
     
 }
 
-@keyframes fade-in{
-    from { opacity: 0;}
-    to{
-        opacity: 1;
-    }
-}
+
 
 
 .suppot-state{
